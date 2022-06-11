@@ -1,4 +1,3 @@
-package ArithmeticOps;
 import java.util.Scanner;
 
 public class ArithmeticOps_1 {
