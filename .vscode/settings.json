@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "OOP/ValuesReturn",
+        "OOP/ParameterAndArgument",
+        "OOP/FolderMethods",
+        "OOP/Constructor",
+        "OOP/MethodOverLoad"
+    ]
+}
